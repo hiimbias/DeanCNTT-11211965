@@ -1,0 +1,779 @@
+Transaction,Item,date_time,period_day,weekday_weekend
+1,New Lungo,25-01-2018 17:44,evening,weekday
+1,New Bakewell,25-01-2018 17:44,evening,weekday
+1,New Bread,25-01-2018 17:44,evening,weekday
+1,New Valentine's Card,25-01-2018 17:44,evening,weekday
+1,New Spanish Brunch,25-01-2018 17:44,evening,weekday
+1,New Adjustment,25-01-2018 17:44,evening,weekday
+1,New Pastry,25-01-2018 17:44,evening,weekday
+1,New Olum & Polenta,25-01-2018 17:44,evening,weekday
+1,New Medialuna,25-01-2018 17:44,evening,weekday
+1,New Mocha,25-01-2018 17:44,evening,weekday
+2,New Muffin,26-03-2018 13:48,afternoon,weekend
+2,New Fruittart,26-03-2018 13:48,afternoon,weekend
+2,New Hearty & Seasonal,26-03-2018 13:48,afternoon,weekend
+3,New Chocolates,02-02-2017 13:01,afternoon,weekend
+3,New Fruittart,02-02-2017 13:01,afternoon,weekend
+3,New Affogato,02-02-2017 13:01,afternoon,weekend
+3,New Scone,02-02-2017 13:01,afternoon,weekend
+3,New Panatone,02-02-2017 13:01,afternoon,weekend
+3,New Jammie Dodgers,02-02-2017 13:01,afternoon,weekend
+3,New Vegan Mincepie,02-02-2017 13:01,afternoon,weekend
+3,New Smoothies,02-02-2017 13:01,afternoon,weekend
+3,New Bacon,02-02-2017 13:01,afternoon,weekend
+3,New Spread,02-02-2017 13:01,afternoon,weekend
+3,New Granola,02-02-2017 13:01,afternoon,weekend
+4,New Americano,26-04-2018 09:16,morning,weekday
+4,New Extra Salami Or Feta,26-04-2018 09:16,morning,weekday
+4,New Keeping It Local,26-04-2018 09:16,morning,weekday
+4,New Gingerbread Syrup,26-04-2018 09:16,morning,weekday
+4,New Fruittart,26-04-2018 09:16,morning,weekday
+4,New Postcard,26-04-2018 09:16,morning,weekday
+4,New Cheesecake,26-04-2018 09:16,morning,weekday
+4,New Espresso,26-04-2018 09:16,morning,weekday
+5,New Brioche And Salami,10-12-2017 19:17,evening,weekday
+5,New Argentina Night,10-12-2017 19:17,evening,weekday
+5,New Bare Popcorn,10-12-2017 19:17,evening,weekday
+5,New Half Slice Monster,10-12-2017 19:17,evening,weekday
+5,New Focaccia,10-12-2017 19:17,evening,weekday
+5,New Alfajores,10-12-2017 19:17,evening,weekday
+5,New Basket,10-12-2017 19:17,evening,weekday
+6,New Drinking Chocolate Spoons,17-07-2017 17:19,evening,weekend
+6,New Dulce De Leche,17-07-2017 17:19,evening,weekend
+6,New Bakewell,17-07-2017 17:19,evening,weekend
+6,New Jam,17-07-2017 17:19,evening,weekend
+6,New Irish Coffee,17-07-2017 17:19,evening,weekend
+6,New Tacos/fajita,17-07-2017 17:19,evening,weekend
+6,New Scone,17-07-2017 17:19,evening,weekend
+6,New Crepes,17-07-2017 17:19,evening,weekend
+6,New Cheesecake,17-07-2017 17:19,evening,weekend
+6,New Jammie Dodgers,17-07-2017 17:19,evening,weekend
+6,New Biscotti,17-07-2017 17:19,evening,weekend
+6,New Hack The Stack,17-07-2017 17:19,evening,weekend
+6,New Duck Egg,17-07-2017 17:19,evening,weekend
+7,New Gift Voucher,14-10-2017 23:04,night,weekday
+7,New Gingerbread Syrup,14-10-2017 23:04,night,weekday
+7,New Eclair,14-10-2017 23:04,night,weekday
+7,New Valentine's Card,14-10-2017 23:04,night,weekday
+7,New Affogato,14-10-2017 23:04,night,weekday
+8,New Pintxos,28-02-2018 17:18,evening,weekday
+8,New Art Tray,28-02-2018 17:18,evening,weekday
+8,New Flatwhite,28-02-2018 17:18,evening,weekday
+8,New Ristretto,28-02-2018 17:18,evening,weekday
+8,New Smoothies,28-02-2018 17:18,evening,weekday
+8,New Jammie Dodgers,28-02-2018 17:18,evening,weekday
+8,New Farm House,28-02-2018 17:18,evening,weekday
+9,New Smoothies,02-06-2017 12:16,afternoon,weekday
+9,New Lungo,02-06-2017 12:16,afternoon,weekday
+9,New Mighty Protein,02-06-2017 12:16,afternoon,weekday
+9,New Spread,02-06-2017 12:16,afternoon,weekday
+9,New Cake,02-06-2017 12:16,afternoon,weekday
+9,New Bacon,02-06-2017 12:16,afternoon,weekday
+9,New Vegan Mincepie,02-06-2017 12:16,afternoon,weekday
+10,New Latte,16-05-2018 22:30,night,weekday
+10,New Spanish Brunch,16-05-2018 22:30,night,weekday
+10,New Chimichurri Oil,16-05-2018 22:30,night,weekday
+10,New Coffee Granules,16-05-2018 22:30,night,weekday
+10,New Pintxos,16-05-2018 22:30,night,weekday
+11,New Chocolates,17-04-2018 06:48,morning,weekday
+11,New Christmas Common,17-04-2018 06:48,morning,weekday
+11,New Espresso,17-04-2018 06:48,morning,weekday
+11,New Chicken Sand,17-04-2018 06:48,morning,weekday
+11,New Juice,17-04-2018 06:48,morning,weekday
+11,New Brownie,17-04-2018 06:48,morning,weekday
+11,New Soup,17-04-2018 06:48,morning,weekday
+11,New Latte,17-04-2018 06:48,morning,weekday
+11,New Lungo,17-04-2018 06:48,morning,weekday
+11,New Bowl Nic Pitt,17-04-2018 06:48,morning,weekday
+11,New Croissant,17-04-2018 06:48,morning,weekday
+12,New Tea,13-01-2017 11:57,morning,weekend
+12,New Vegan Mincepie,13-01-2017 11:57,morning,weekend
+12,New Jammie Dodgers,13-01-2017 11:57,morning,weekend
+12,New Salad,13-01-2017 11:57,morning,weekend
+12,New Raw Bars,13-01-2017 11:57,morning,weekend
+12,New Hack The Stack,13-01-2017 11:57,morning,weekend
+12,New Panatone,13-01-2017 11:57,morning,weekend
+12,New Pintxos,13-01-2017 11:57,morning,weekend
+12,New Christmas Common,13-01-2017 11:57,morning,weekend
+12,New Tiffin,13-01-2017 11:57,morning,weekend
+13,New Biscotti,15-08-2017 18:46,evening,weekend
+13,New Farm House,15-08-2017 18:46,evening,weekend
+13,New Spanish Brunch,15-08-2017 18:46,evening,weekend
+13,New Eggs,15-08-2017 18:46,evening,weekend
+13,New Bakewell,15-08-2017 18:46,evening,weekend
+13,New Bare Popcorn,15-08-2017 18:46,evening,weekend
+13,New Hearty & Seasonal,15-08-2017 18:46,evening,weekend
+14,New Basket,03-08-2017 19:06,evening,weekday
+14,New Fudge,03-08-2017 19:06,evening,weekday
+14,New Panatone,03-08-2017 19:06,evening,weekday
+14,New Bakewell,03-08-2017 19:06,evening,weekday
+14,New Mortimer,03-08-2017 19:06,evening,weekday
+14,New Raw Bars,03-08-2017 19:06,evening,weekday
+14,New Hearty & Seasonal,03-08-2017 19:06,evening,weekday
+14,New Tacos/fajita,03-08-2017 19:06,evening,weekday
+14,New Valentine's Card,03-08-2017 19:06,evening,weekday
+14,New Chimichurri Oil,03-08-2017 19:06,evening,weekday
+15,New Cappuccino,19-08-2017 17:14,evening,weekday
+15,New Bacon,19-08-2017 17:14,evening,weekday
+15,New Scandinavian,19-08-2017 17:14,evening,weekday
+15,New Ristretto,19-08-2017 17:14,evening,weekday
+15,New Extra Salami Or Feta,19-08-2017 17:14,evening,weekday
+15,New Argentina Night,19-08-2017 17:14,evening,weekday
+15,New Spanish Brunch,19-08-2017 17:14,evening,weekday
+15,New Honey,19-08-2017 17:14,evening,weekday
+15,New Pick And Mix Bowls,19-08-2017 17:14,evening,weekday
+16,New Polenta,13-05-2018 19:09,evening,weekday
+16,New Scone,13-05-2018 19:09,evening,weekday
+16,New Croissant,13-05-2018 19:09,evening,weekday
+16,New Danish,13-05-2018 19:09,evening,weekday
+16,New Affogato,13-05-2018 19:09,evening,weekday
+16,New Crepes,13-05-2018 19:09,evening,weekday
+16,New Spanish Brunch,13-05-2018 19:09,evening,weekday
+16,New Pastry,13-05-2018 19:09,evening,weekday
+16,New Nomad Bag,13-05-2018 19:09,evening,weekday
+17,New Hack The Stack,15-04-2017 07:07,morning,weekend
+17,New Fairy Doors,15-04-2017 07:07,morning,weekend
+17,New Quiche,15-04-2017 07:07,morning,weekend
+17,New Mineral Water,15-04-2017 07:07,morning,weekend
+17,New Lungo,15-04-2017 07:07,morning,weekend
+17,New Tshirt,15-04-2017 07:07,morning,weekend
+18,New Chicken Sand,29-05-2017 07:36,morning,weekend
+18,New Gift Voucher,29-05-2017 07:36,morning,weekend
+18,New Irish Coffee,29-05-2017 07:36,morning,weekend
+18,New Quiche,29-05-2017 07:36,morning,weekend
+18,New Nomad Bag,29-05-2017 07:36,morning,weekend
+18,New Tartine,29-05-2017 07:36,morning,weekend
+18,New Jam,29-05-2017 07:36,morning,weekend
+18,New Caramel Bites,29-05-2017 07:36,morning,weekend
+18,New Baguette,29-05-2017 07:36,morning,weekend
+18,New Cherry Me Dried Fruit,29-05-2017 07:36,morning,weekend
+18,New Tacos/fajita,29-05-2017 07:36,morning,weekend
+19,New Americano,20-04-2018 18:06,evening,weekday
+20,New Chocolates,01-03-2018 13:21,afternoon,weekday
+20,New Frittata,01-03-2018 13:21,afternoon,weekday
+20,New Cappuccino,01-03-2018 13:21,afternoon,weekday
+20,New Vegan Feast,01-03-2018 13:21,afternoon,weekday
+20,New Granola,01-03-2018 13:21,afternoon,weekday
+20,New Ella's Kitchen Pouches,01-03-2018 13:21,afternoon,weekday
+20,New Raw Bars,01-03-2018 13:21,afternoon,weekday
+20,New Spanish Brunch,01-03-2018 13:21,afternoon,weekday
+20,New Eggs,01-03-2018 13:21,afternoon,weekday
+20,New Danish,01-03-2018 13:21,afternoon,weekday
+20,New Keeping It Local,01-03-2018 13:21,afternoon,weekday
+20,New Biscotti,01-03-2018 13:21,afternoon,weekday
+20,New Bowl Nic Pitt,01-03-2018 13:21,afternoon,weekday
+20,New Bakewell,01-03-2018 13:21,afternoon,weekday
+21,New Cherry Me Dried Fruit,18-08-2017 23:58,night,weekend
+21,New Caramel Bites,18-08-2017 23:58,night,weekend
+21,New Mighty Protein,18-08-2017 23:58,night,weekend
+21,New Vegan Feast,18-08-2017 23:58,night,weekend
+21,New Bread,18-08-2017 23:58,night,weekend
+21,New Mortimer,18-08-2017 23:58,night,weekend
+21,New Christmas Common,18-08-2017 23:58,night,weekend
+21,New Juice,18-08-2017 23:58,night,weekend
+21,New Cake,18-08-2017 23:58,night,weekend
+21,New Toast,18-08-2017 23:58,night,weekend
+22,New Danish,22-12-2017 18:59,evening,weekend
+22,New Drinking Chocolate Spoons,22-12-2017 18:59,evening,weekend
+22,New Salad,22-12-2017 18:59,evening,weekend
+22,New Frittata,22-12-2017 18:59,evening,weekend
+22,New Valentine's Card,22-12-2017 18:59,evening,weekend
+22,New Postcard,22-12-2017 18:59,evening,weekend
+22,New Brioche And Salami,22-12-2017 18:59,evening,weekend
+22,New Truffles,22-12-2017 18:59,evening,weekend
+22,New Ella's Kitchen Pouches,22-12-2017 18:59,evening,weekend
+23,New Caramel Bites,24-04-2018 16:07,afternoon,weekday
+23,New Fudge,24-04-2018 16:07,afternoon,weekday
+24,New Chicken Sand,24-08-2017 16:12,afternoon,weekend
+25,New Coke,15-11-2017 20:01,night,weekend
+25,New Cherry Me Dried Fruit,15-11-2017 20:01,night,weekend
+25,New Quiche,15-11-2017 20:01,night,weekend
+25,New Focaccia,15-11-2017 20:01,night,weekend
+25,New Brownie,15-11-2017 20:01,night,weekend
+25,New Pastry,15-11-2017 20:01,night,weekend
+25,New Gingerbread Syrup,15-11-2017 20:01,night,weekend
+25,New Scandinavian,15-11-2017 20:01,night,weekend
+25,New Mineral Water,15-11-2017 20:01,night,weekend
+25,New Cortado,15-11-2017 20:01,night,weekend
+25,New Bakewell,15-11-2017 20:01,night,weekend
+25,New Adjustment,15-11-2017 20:01,night,weekend
+25,New Spanish Brunch,15-11-2017 20:01,night,weekend
+26,New Lemon And Coconut,26-01-2018 19:56,evening,weekend
+26,New Affogato,26-01-2018 19:56,evening,weekend
+26,New Ella's Kitchen Pouches,26-01-2018 19:56,evening,weekend
+26,New Mocha,26-01-2018 19:56,evening,weekend
+26,New Siblings,26-01-2018 19:56,evening,weekend
+27,New Granola,15-02-2018 07:48,morning,weekend
+28,New Brioche And Salami,22-03-2018 12:07,afternoon,weekend
+28,New Caramel Bites,22-03-2018 12:07,afternoon,weekend
+28,New Cherry Me Dried Fruit,22-03-2018 12:07,afternoon,weekend
+28,New Mortimer,22-03-2018 12:07,afternoon,weekend
+28,New Soup,22-03-2018 12:07,afternoon,weekend
+28,New Bread Pudding,22-03-2018 12:07,afternoon,weekend
+28,New Pintxos,22-03-2018 12:07,afternoon,weekend
+28,New Cortado,22-03-2018 12:07,afternoon,weekend
+28,New Eclair,22-03-2018 12:07,afternoon,weekend
+28,New Quiche,22-03-2018 12:07,afternoon,weekend
+28,New Vegan Mincepie,22-03-2018 12:07,afternoon,weekend
+28,New Fudge,22-03-2018 12:07,afternoon,weekend
+29,New Victorian Sponge,08-04-2018 09:31,morning,weekend
+29,New Postcard,08-04-2018 09:31,morning,weekend
+29,New Siblings,08-04-2018 09:31,morning,weekend
+29,New Lungo,08-04-2018 09:31,morning,weekend
+29,New Gingerbread Syrup,08-04-2018 09:31,morning,weekend
+29,New Danish,08-04-2018 09:31,morning,weekend
+29,New Caramel Bites,08-04-2018 09:31,morning,weekend
+29,New Nomad Bag,08-04-2018 09:31,morning,weekend
+29,New Art Tray,08-04-2018 09:31,morning,weekend
+29,New Empanadas,08-04-2018 09:31,morning,weekend
+30,New The Nomad,11-01-2018 22:33,night,weekday
+30,New My-5 Fruit Shoot,11-01-2018 22:33,night,weekday
+30,New Biscotti,11-01-2018 22:33,night,weekday
+30,New Scone,11-01-2018 22:33,night,weekday
+30,New Jammie Dodgers,11-01-2018 22:33,night,weekday
+30,New Argentina Night,11-01-2018 22:33,night,weekday
+30,New Irish Coffee,11-01-2018 22:33,night,weekday
+30,New Hack The Stack,11-01-2018 22:33,night,weekday
+30,New Vegan Mincepie,11-01-2018 22:33,night,weekday
+30,New Christmas Common,11-01-2018 22:33,night,weekday
+30,New Coffee Granules,11-01-2018 22:33,night,weekday
+30,New Honey,11-01-2018 22:33,night,weekday
+30,New Cookies,11-01-2018 22:33,night,weekday
+31,New Extra Salami Or Feta,16-04-2018 17:05,evening,weekend
+32,New Macchiato,23-01-2017 21:33,night,weekend
+32,New Bread Pudding,23-01-2017 21:33,night,weekend
+32,New The Nomad,23-01-2017 21:33,night,weekend
+33,New Coffee,13-09-2017 14:26,afternoon,weekend
+33,New Raw Bars,13-09-2017 14:26,afternoon,weekend
+33,New Pintxos,13-09-2017 14:26,afternoon,weekend
+33,New Gingerbread Syrup,13-09-2017 14:26,afternoon,weekend
+33,New Croissant,13-09-2017 14:26,afternoon,weekend
+33,New Flatwhite,13-09-2017 14:26,afternoon,weekend
+33,New Bare Popcorn,13-09-2017 14:26,afternoon,weekend
+33,New Bread,13-09-2017 14:26,afternoon,weekend
+33,New Extra Salami Or Feta,13-09-2017 14:26,afternoon,weekend
+33,New Alfajores,13-09-2017 14:26,afternoon,weekend
+33,New Ristretto,13-09-2017 14:26,afternoon,weekend
+33,New Caramel Bites,13-09-2017 14:26,afternoon,weekend
+33,New Latte,13-09-2017 14:26,afternoon,weekend
+33,New Mineral Water,13-09-2017 14:26,afternoon,weekend
+33,New Tartine,13-09-2017 14:26,afternoon,weekend
+34,New Valentine's Card,11-11-2017 19:08,evening,weekend
+34,New Bowl Nic Pitt,11-11-2017 19:08,evening,weekend
+34,New Bread,11-11-2017 19:08,evening,weekend
+34,New Truffles,11-11-2017 19:08,evening,weekend
+34,New Olum & Polenta,11-11-2017 19:08,evening,weekend
+34,New Mortimer,11-11-2017 19:08,evening,weekend
+34,New Jam,11-11-2017 19:08,evening,weekend
+34,New Coffee,11-11-2017 19:08,evening,weekend
+34,New Danish,11-11-2017 19:08,evening,weekend
+34,New Coke,11-11-2017 19:08,evening,weekend
+34,New Bare Popcorn,11-11-2017 19:08,evening,weekend
+34,New Juice,11-11-2017 19:08,evening,weekend
+34,New Pintxos,11-11-2017 19:08,evening,weekend
+34,New Extra Salami Or Feta,11-11-2017 19:08,evening,weekend
+35,New Cheesecake,20-02-2017 13:33,afternoon,weekend
+35,New Bare Popcorn,20-02-2017 13:33,afternoon,weekend
+35,New Granola,20-02-2017 13:33,afternoon,weekend
+35,New Muesli,20-02-2017 13:33,afternoon,weekend
+35,New Coke,20-02-2017 13:33,afternoon,weekend
+35,New Cherry Me Dried Fruit,20-02-2017 13:33,afternoon,weekend
+35,New Chicken Stew,20-02-2017 13:33,afternoon,weekend
+35,New Tiffin,20-02-2017 13:33,afternoon,weekend
+35,New Alfajores,20-02-2017 13:33,afternoon,weekend
+36,New Eclair,21-09-2017 08:03,morning,weekend
+36,New Cherry Me Dried Fruit,21-09-2017 08:03,morning,weekend
+36,New Vegan Mincepie,21-09-2017 08:03,morning,weekend
+36,New Pastry,21-09-2017 08:03,morning,weekend
+36,New Focaccia,21-09-2017 08:03,morning,weekend
+36,New Flatwhite,21-09-2017 08:03,morning,weekend
+37,New Latte,16-03-2018 22:27,night,weekday
+37,New Christmas Common,16-03-2018 22:27,night,weekday
+37,New Tacos/fajita,16-03-2018 22:27,night,weekday
+37,New Panatone,16-03-2018 22:27,night,weekday
+37,New Muesli,16-03-2018 22:27,night,weekday
+37,New Chocolates,16-03-2018 22:27,night,weekday
+37,New Salad,16-03-2018 22:27,night,weekday
+38,New Irish Coffee,15-04-2018 22:25,night,weekend
+38,New Kids Biscuit,15-04-2018 22:25,night,weekend
+38,New Mortimer,15-04-2018 22:25,night,weekend
+38,New Art Tray,15-04-2018 22:25,night,weekend
+39,New Latte,15-07-2017 17:22,evening,weekend
+39,New Drinking Chocolate Spoons,15-07-2017 17:22,evening,weekend
+39,New Focaccia,15-07-2017 17:22,evening,weekend
+39,New Scone,15-07-2017 17:22,evening,weekend
+39,New Granola,15-07-2017 17:22,evening,weekend
+39,New Mighty Protein,15-07-2017 17:22,evening,weekend
+39,New Valentine's Card,15-07-2017 17:22,evening,weekend
+39,New Chimichurri Oil,15-07-2017 17:22,evening,weekend
+39,New Tartine,15-07-2017 17:22,evening,weekend
+39,New Soup,15-07-2017 17:22,evening,weekend
+39,New Coke,15-07-2017 17:22,evening,weekend
+40,New Latte,02-05-2017 10:38,morning,weekend
+40,New Mineral Water,02-05-2017 10:38,morning,weekend
+40,New Pintxos,02-05-2017 10:38,morning,weekend
+40,New Tea,02-05-2017 10:38,morning,weekend
+40,New Gift Voucher,02-05-2017 10:38,morning,weekend
+40,New Hot Chocolate,02-05-2017 10:38,morning,weekend
+40,New Scandinavian,02-05-2017 10:38,morning,weekend
+40,New Espresso,02-05-2017 10:38,morning,weekend
+40,New Eclair,02-05-2017 10:38,morning,weekend
+40,New Pick And Mix Bowls,02-05-2017 10:38,morning,weekend
+40,New Raw Bars,02-05-2017 10:38,morning,weekend
+40,New Caramel Bites,02-05-2017 10:38,morning,weekend
+41,New Bagel,14-02-2018 22:27,night,weekday
+42,New Keeping It Local,12-11-2017 18:58,evening,weekday
+42,New Smoothies,12-11-2017 18:58,evening,weekday
+42,New Ella's Kitchen Pouches,12-11-2017 18:58,evening,weekday
+42,New Raspberry Shortbread Sandwich,12-11-2017 18:58,evening,weekday
+42,New Oatmeal,12-11-2017 18:58,evening,weekday
+42,New Cheesecake,12-11-2017 18:58,evening,weekday
+42,New Quiche,12-11-2017 18:58,evening,weekday
+42,New Nomad Bag,12-11-2017 18:58,evening,weekday
+42,New Tartine,12-11-2017 18:58,evening,weekday
+42,New Dulce De Leche,12-11-2017 18:58,evening,weekday
+42,New Biscotti,12-11-2017 18:58,evening,weekday
+42,New Mighty Protein,12-11-2017 18:58,evening,weekday
+42,New Lungo,12-11-2017 18:58,evening,weekday
+42,New Cappuccino,12-11-2017 18:58,evening,weekday
+42,New Gingerbread Syrup,12-11-2017 18:58,evening,weekday
+43,New Bowl Nic Pitt,22-01-2018 12:45,afternoon,weekend
+43,New Baguette,22-01-2018 12:45,afternoon,weekend
+43,New Fairy Doors,22-01-2018 12:45,afternoon,weekend
+43,New Cherry Me Dried Fruit,22-01-2018 12:45,afternoon,weekend
+43,New Coffee,22-01-2018 12:45,afternoon,weekend
+43,New Argentina Night,22-01-2018 12:45,afternoon,weekend
+43,New Tartine,22-01-2018 12:45,afternoon,weekend
+44,New Chocolates,22-01-2018 20:21,night,weekday
+44,New Bacon,22-01-2018 20:21,night,weekday
+44,New Nomad Bag,22-01-2018 20:21,night,weekday
+44,New Espresso,22-01-2018 20:21,night,weekday
+44,New Quiche,22-01-2018 20:21,night,weekday
+44,New Affogato,22-01-2018 20:21,night,weekday
+44,New Afternoon With The Baker,22-01-2018 20:21,night,weekday
+45,New Mighty Protein,26-03-2018 11:46,morning,weekend
+45,New Lungo,26-03-2018 11:46,morning,weekend
+45,New Vegan Mincepie,26-03-2018 11:46,morning,weekend
+45,New Pick And Mix Bowls,26-03-2018 11:46,morning,weekend
+45,New Scandinavian,26-03-2018 11:46,morning,weekend
+45,New Drinking Chocolate Spoons,26-03-2018 11:46,morning,weekend
+45,New Chicken Sand,26-03-2018 11:46,morning,weekend
+46,New Tshirt,25-11-2017 18:34,evening,weekday
+46,New Postcard,25-11-2017 18:34,evening,weekday
+46,New Medialuna,25-11-2017 18:34,evening,weekday
+46,New Christmas Common,25-11-2017 18:34,evening,weekday
+46,New Latte,25-11-2017 18:34,evening,weekday
+46,New Juice,25-11-2017 18:34,evening,weekday
+46,New Alfajores,25-11-2017 18:34,evening,weekday
+46,New Argentina Night,25-11-2017 18:34,evening,weekday
+46,New My-5 Fruit Shoot,25-11-2017 18:34,evening,weekday
+46,New Coffee,25-11-2017 18:34,evening,weekday
+47,New Fruittart,27-11-2017 18:34,evening,weekday
+47,New Valentine's Card,27-11-2017 18:34,evening,weekday
+47,New Cherry Me Dried Fruit,27-11-2017 18:34,evening,weekday
+48,New Truffles,29-10-2017 16:50,afternoon,weekday
+48,New Bagel,29-10-2017 16:50,afternoon,weekday
+48,New Chicken Stew,29-10-2017 16:50,afternoon,weekday
+48,New The Bart,29-10-2017 16:50,afternoon,weekday
+48,New Cookies,29-10-2017 16:50,afternoon,weekday
+48,New Crisps,29-10-2017 16:50,afternoon,weekday
+48,New Lemon And Coconut,29-10-2017 16:50,afternoon,weekday
+49,New Adjustment,20-04-2018 19:15,evening,weekend
+49,New Brownie,20-04-2018 19:15,evening,weekend
+49,New Chicken Sand,20-04-2018 19:15,evening,weekend
+49,New Valentine's Card,20-04-2018 19:15,evening,weekend
+49,New Quiche,20-04-2018 19:15,evening,weekend
+49,New Dulce De Leche,20-04-2018 19:15,evening,weekend
+49,New Brioche And Salami,20-04-2018 19:15,evening,weekend
+49,New Bagel,20-04-2018 19:15,evening,weekend
+49,New Coffee,20-04-2018 19:15,evening,weekend
+49,New Duck Egg,20-04-2018 19:15,evening,weekend
+50,New Tacos/fajita,14-02-2017 17:22,evening,weekday
+50,New Coffee Granules,14-02-2017 17:22,evening,weekday
+50,New Ella's Kitchen Pouches,14-02-2017 17:22,evening,weekday
+50,New Chocolates,14-02-2017 17:22,evening,weekday
+50,New Chimichurri Oil,14-02-2017 17:22,evening,weekday
+51,New Cookies,29-12-2017 06:40,morning,weekday
+51,New Pintxos,29-12-2017 06:40,morning,weekday
+51,New Coke,29-12-2017 06:40,morning,weekday
+51,New Vegan Mincepie,29-12-2017 06:40,morning,weekday
+51,New Hearty & Seasonal,29-12-2017 06:40,morning,weekday
+52,New Quiche,08-12-2017 15:33,afternoon,weekday
+52,New Mocha,08-12-2017 15:33,afternoon,weekday
+52,New Baguette,08-12-2017 15:33,afternoon,weekday
+52,New Hot Chocolate,08-12-2017 15:33,afternoon,weekday
+52,New Chimichurri Oil,08-12-2017 15:33,afternoon,weekday
+52,New Afternoon With The Baker,08-12-2017 15:33,afternoon,weekday
+52,New Salad,08-12-2017 15:33,afternoon,weekday
+52,New Olum & Polenta,08-12-2017 15:33,afternoon,weekday
+53,New Smoothies,29-03-2017 06:41,morning,weekend
+53,New Bare Popcorn,29-03-2017 06:41,morning,weekend
+53,New Pick And Mix Bowls,29-03-2017 06:41,morning,weekend
+53,New Macchiato,29-03-2017 06:41,morning,weekend
+53,New Oatmeal,29-03-2017 06:41,morning,weekend
+54,New Ristretto,11-03-2017 17:54,evening,weekend
+54,New Focaccia,11-03-2017 17:54,evening,weekend
+54,New Victorian Sponge,11-03-2017 17:54,evening,weekend
+54,New Argentina Night,11-03-2017 17:54,evening,weekend
+54,New Chocolates,11-03-2017 17:54,evening,weekend
+54,New Scone,11-03-2017 17:54,evening,weekend
+54,New Vegan Feast,11-03-2017 17:54,evening,weekend
+54,New Panatone,11-03-2017 17:54,evening,weekend
+55,New Vegan Mincepie,24-04-2018 21:24,night,weekend
+55,New Lungo,24-04-2018 21:24,night,weekend
+55,New Victorian Sponge,24-04-2018 21:24,night,weekend
+55,New Coke,24-04-2018 21:24,night,weekend
+55,New Brownie,24-04-2018 21:24,night,weekend
+55,New Bread,24-04-2018 21:24,night,weekend
+55,New Fruittart,24-04-2018 21:24,night,weekend
+55,New Gift Voucher,24-04-2018 21:24,night,weekend
+56,New Extra Salami Or Feta,13-04-2018 13:15,afternoon,weekday
+56,New Cheesecake,13-04-2018 13:15,afternoon,weekday
+56,New Cake,13-04-2018 13:15,afternoon,weekday
+56,New Muffin,13-04-2018 13:15,afternoon,weekday
+56,New Afternoon With The Baker,13-04-2018 13:15,afternoon,weekday
+56,New Bowl Nic Pitt,13-04-2018 13:15,afternoon,weekday
+56,New Adjustment,13-04-2018 13:15,afternoon,weekday
+56,New Tea,13-04-2018 13:15,afternoon,weekday
+56,New Jam,13-04-2018 13:15,afternoon,weekday
+56,New Gingerbread Syrup,13-04-2018 13:15,afternoon,weekday
+56,New Jammie Dodgers,13-04-2018 13:15,afternoon,weekday
+57,New Crepes,25-03-2017 19:17,evening,weekday
+57,New Irish Coffee,25-03-2017 19:17,evening,weekday
+57,New Flatwhite,25-03-2017 19:17,evening,weekday
+57,New Cappuccino,25-03-2017 19:17,evening,weekday
+57,New Hearty & Seasonal,25-03-2017 19:17,evening,weekday
+57,New Muffin,25-03-2017 19:17,evening,weekday
+57,New Medialuna,25-03-2017 19:17,evening,weekday
+57,New Truffles,25-03-2017 19:17,evening,weekday
+57,New Tartine,25-03-2017 19:17,evening,weekday
+57,New Sandwich,25-03-2017 19:17,evening,weekday
+58,New Gingerbread Syrup,07-12-2017 17:33,evening,weekday
+58,New Lemon And Coconut,07-12-2017 17:33,evening,weekday
+58,New Brioche And Salami,07-12-2017 17:33,evening,weekday
+59,New Cookies,11-04-2018 06:54,morning,weekday
+59,New Argentina Night,11-04-2018 06:54,morning,weekday
+59,New Bare Popcorn,11-04-2018 06:54,morning,weekday
+59,New Irish Coffee,11-04-2018 06:54,morning,weekday
+59,New Pintxos,11-04-2018 06:54,morning,weekday
+59,New Coffee Granules,11-04-2018 06:54,morning,weekday
+59,New Chicken Sand,11-04-2018 06:54,morning,weekday
+59,New Hearty & Seasonal,11-04-2018 06:54,morning,weekday
+59,New Empanadas,11-04-2018 06:54,morning,weekday
+59,New Ristretto,11-04-2018 06:54,morning,weekday
+59,New Honey,11-04-2018 06:54,morning,weekday
+60,New Empanadas,21-05-2017 22:16,night,weekday
+60,New Bread Pudding,21-05-2017 22:16,night,weekday
+60,New Art Tray,21-05-2017 22:16,night,weekday
+60,New Brownie,21-05-2017 22:16,night,weekday
+60,New Adjustment,21-05-2017 22:16,night,weekday
+60,New Jam,21-05-2017 22:16,night,weekday
+60,New Mineral Water,21-05-2017 22:16,night,weekday
+60,New Polenta,21-05-2017 22:16,night,weekday
+60,New Croissant,21-05-2017 22:16,night,weekday
+60,New Raw Bars,21-05-2017 22:16,night,weekday
+61,New Coffee Granules,05-02-2018 23:08,night,weekday
+61,New Chocolates,05-02-2018 23:08,night,weekday
+61,New Mighty Protein,05-02-2018 23:08,night,weekday
+61,New Baguette,05-02-2018 23:08,night,weekday
+61,New Bacon,05-02-2018 23:08,night,weekday
+61,New Oatmeal,05-02-2018 23:08,night,weekday
+61,New Muesli,05-02-2018 23:08,night,weekday
+61,New Raw Bars,05-02-2018 23:08,night,weekday
+61,New Lungo,05-02-2018 23:08,night,weekday
+61,New Honey,05-02-2018 23:08,night,weekday
+62,New Crepes,30-11-2017 10:38,morning,weekday
+62,New Spread,30-11-2017 10:38,morning,weekday
+62,New Latte,30-11-2017 10:38,morning,weekday
+62,New Brioche And Salami,30-11-2017 10:38,morning,weekday
+62,New Mocha,30-11-2017 10:38,morning,weekday
+62,New Flatwhite,30-11-2017 10:38,morning,weekday
+62,New The Nomad,30-11-2017 10:38,morning,weekday
+62,New Bare Popcorn,30-11-2017 10:38,morning,weekday
+63,New Pastry,21-03-2017 14:53,afternoon,weekend
+63,New Truffles,21-03-2017 14:53,afternoon,weekend
+63,New Quiche,21-03-2017 14:53,afternoon,weekend
+63,New Cortado,21-03-2017 14:53,afternoon,weekend
+63,New Granola,21-03-2017 14:53,afternoon,weekend
+63,New Affogato,21-03-2017 14:53,afternoon,weekend
+63,New Salad,21-03-2017 14:53,afternoon,weekend
+63,New Hearty & Seasonal,21-03-2017 14:53,afternoon,weekend
+64,New Focaccia,23-05-2017 16:11,afternoon,weekend
+64,New Bread,23-05-2017 16:11,afternoon,weekend
+65,New Art Tray,08-01-2017 10:38,morning,weekday
+65,New Bagel,08-01-2017 10:38,morning,weekday
+65,New Gingerbread Syrup,08-01-2017 10:38,morning,weekday
+65,New Raspberry Shortbread Sandwich,08-01-2017 10:38,morning,weekday
+65,New Cherry Me Dried Fruit,08-01-2017 10:38,morning,weekday
+66,New Bowl Nic Pitt,25-03-2018 16:29,afternoon,weekend
+66,New Ristretto,25-03-2018 16:29,afternoon,weekend
+67,New Keeping It Local,13-02-2017 09:05,morning,weekend
+68,New Frittata,08-02-2017 12:47,afternoon,weekday
+68,New Coffee Granules,08-02-2017 12:47,afternoon,weekday
+68,New Keeping It Local,08-02-2017 12:47,afternoon,weekday
+68,New Eclair,08-02-2017 12:47,afternoon,weekday
+68,New Pastry,08-02-2017 12:47,afternoon,weekday
+68,New Eggs,08-02-2017 12:47,afternoon,weekday
+68,New Adjustment,08-02-2017 12:47,afternoon,weekday
+68,New Kids Biscuit,08-02-2017 12:47,afternoon,weekday
+68,New Mocha,08-02-2017 12:47,afternoon,weekday
+69,New Juice,07-02-2018 07:47,morning,weekend
+69,New Tea,07-02-2018 07:47,morning,weekend
+69,New Art Tray,07-02-2018 07:47,morning,weekend
+69,New Irish Coffee,07-02-2018 07:47,morning,weekend
+70,New Farm House,11-05-2018 21:17,night,weekday
+70,New Raw Bars,11-05-2018 21:17,night,weekday
+70,New Brioche And Salami,11-05-2018 21:17,night,weekday
+70,New Crisps,11-05-2018 21:17,night,weekday
+70,New Brownie,11-05-2018 21:17,night,weekday
+70,New Americano,11-05-2018 21:17,night,weekday
+70,New Extra Salami Or Feta,11-05-2018 21:17,night,weekday
+71,New Polenta,16-06-2017 14:16,afternoon,weekend
+71,New Croissant,16-06-2017 14:16,afternoon,weekend
+71,New Cherry Me Dried Fruit,16-06-2017 14:16,afternoon,weekend
+71,New Coffee Granules,16-06-2017 14:16,afternoon,weekend
+71,New Toast,16-06-2017 14:16,afternoon,weekend
+72,New Tacos/fajita,17-02-2018 12:01,afternoon,weekend
+72,New Juice,17-02-2018 12:01,afternoon,weekend
+72,New Muffin,17-02-2018 12:01,afternoon,weekend
+72,New Chocolates,17-02-2018 12:01,afternoon,weekend
+72,New Macchiato,17-02-2018 12:01,afternoon,weekend
+72,New Honey,17-02-2018 12:01,afternoon,weekend
+72,New Smoothies,17-02-2018 12:01,afternoon,weekend
+72,New Bare Popcorn,17-02-2018 12:01,afternoon,weekend
+72,New Medialuna,17-02-2018 12:01,afternoon,weekend
+72,New Spread,17-02-2018 12:01,afternoon,weekend
+72,New Raspberry Shortbread Sandwich,17-02-2018 12:01,afternoon,weekend
+73,New Danish,02-04-2018 17:56,evening,weekday
+73,New Gingerbread Syrup,02-04-2018 17:56,evening,weekday
+73,New Smoothies,02-04-2018 17:56,evening,weekday
+73,New Pastry,02-04-2018 17:56,evening,weekday
+74,New Bakewell,21-02-2018 09:54,morning,weekend
+74,New Raspberry Shortbread Sandwich,21-02-2018 09:54,morning,weekend
+74,New The Bart,21-02-2018 09:54,morning,weekend
+74,New Coffee,21-02-2018 09:54,morning,weekend
+74,New Danish,21-02-2018 09:54,morning,weekend
+74,New Sandwich,21-02-2018 09:54,morning,weekend
+74,New Jammie Dodgers,21-02-2018 09:54,morning,weekend
+74,New Eggs,21-02-2018 09:54,morning,weekend
+74,New Baguette,21-02-2018 09:54,morning,weekend
+74,New Victorian Sponge,21-02-2018 09:54,morning,weekend
+74,New Crisps,21-02-2018 09:54,morning,weekend
+74,New My-5 Fruit Shoot,21-02-2018 09:54,morning,weekend
+75,New Granola,31-12-2017 19:49,evening,weekend
+75,New Smoothies,31-12-2017 19:49,evening,weekend
+75,New Pick And Mix Bowls,31-12-2017 19:49,evening,weekend
+75,New Muffin,31-12-2017 19:49,evening,weekend
+75,New Chicken Stew,31-12-2017 19:49,evening,weekend
+75,New Chimichurri Oil,31-12-2017 19:49,evening,weekend
+76,New Scandinavian,20-06-2017 12:01,afternoon,weekend
+76,New Bagel,20-06-2017 12:01,afternoon,weekend
+76,New Crisps,20-06-2017 12:01,afternoon,weekend
+76,New Tartine,20-06-2017 12:01,afternoon,weekend
+76,New Cookies,20-06-2017 12:01,afternoon,weekend
+76,New Bare Popcorn,20-06-2017 12:01,afternoon,weekend
+76,New Latte,20-06-2017 12:01,afternoon,weekend
+76,New Hearty & Seasonal,20-06-2017 12:01,afternoon,weekend
+76,New Drinking Chocolate Spoons,20-06-2017 12:01,afternoon,weekend
+76,New Dulce De Leche,20-06-2017 12:01,afternoon,weekend
+76,New Chimichurri Oil,20-06-2017 12:01,afternoon,weekend
+76,New Vegan Feast,20-06-2017 12:01,afternoon,weekend
+76,New The Bart,20-06-2017 12:01,afternoon,weekend
+76,New Valentine's Card,20-06-2017 12:01,afternoon,weekend
+77,New Brownie,17-04-2018 14:09,afternoon,weekday
+77,New Siblings,17-04-2018 14:09,afternoon,weekday
+77,New Mineral Water,17-04-2018 14:09,afternoon,weekday
+77,New Hot Chocolate,17-04-2018 14:09,afternoon,weekday
+77,New Cortado,17-04-2018 14:09,afternoon,weekday
+78,New Keeping It Local,22-12-2017 20:35,night,weekend
+78,New Tea,22-12-2017 20:35,night,weekend
+78,New Drinking Chocolate Spoons,22-12-2017 20:35,night,weekend
+78,New Lemon And Coconut,22-12-2017 20:35,night,weekend
+78,New Victorian Sponge,22-12-2017 20:35,night,weekend
+78,New Tshirt,22-12-2017 20:35,night,weekend
+78,New Cookies,22-12-2017 20:35,night,weekend
+78,New Christmas Common,22-12-2017 20:35,night,weekend
+78,New Gingerbread Syrup,22-12-2017 20:35,night,weekend
+78,New Bakewell,22-12-2017 20:35,night,weekend
+78,New Basket,22-12-2017 20:35,night,weekend
+78,New Siblings,22-12-2017 20:35,night,weekend
+78,New Crepes,22-12-2017 20:35,night,weekend
+78,New Medialuna,22-12-2017 20:35,night,weekend
+78,New Raw Bars,22-12-2017 20:35,night,weekend
+79,New My-5 Fruit Shoot,07-02-2017 17:40,evening,weekday
+80,New Lemon And Coconut,06-01-2018 22:54,night,weekday
+80,New Mortimer,06-01-2018 22:54,night,weekday
+80,New Crisps,06-01-2018 22:54,night,weekday
+81,New Crisps,01-01-2018 20:13,night,weekday
+81,New Chicken Sand,01-01-2018 20:13,night,weekday
+81,New Danish,01-01-2018 20:13,night,weekday
+81,New Raspberry Shortbread Sandwich,01-01-2018 20:13,night,weekday
+81,New Spread,01-01-2018 20:13,night,weekday
+81,New Gingerbread Syrup,01-01-2018 20:13,night,weekday
+81,New Hot Chocolate,01-01-2018 20:13,night,weekday
+81,New Art Tray,01-01-2018 20:13,night,weekday
+81,New Oatmeal,01-01-2018 20:13,night,weekday
+82,New Olum & Polenta,25-01-2017 19:39,evening,weekday
+82,New Bakewell,25-01-2017 19:39,evening,weekday
+82,New Quiche,25-01-2017 19:39,evening,weekday
+82,New Eclair,25-01-2017 19:39,evening,weekday
+83,New Hot Chocolate,04-02-2018 21:16,night,weekend
+83,New Pintxos,04-02-2018 21:16,night,weekend
+83,New Nomad Bag,04-02-2018 21:16,night,weekend
+83,New Cherry Me Dried Fruit,04-02-2018 21:16,night,weekend
+83,New Pick And Mix Bowls,04-02-2018 21:16,night,weekend
+83,New Lemon And Coconut,04-02-2018 21:16,night,weekend
+84,New Honey,09-12-2017 11:09,morning,weekday
+84,New Gift Voucher,09-12-2017 11:09,morning,weekday
+84,New Mineral Water,09-12-2017 11:09,morning,weekday
+84,New Gingerbread Syrup,09-12-2017 11:09,morning,weekday
+84,New Coffee Granules,09-12-2017 11:09,morning,weekday
+84,New Tiffin,09-12-2017 11:09,morning,weekday
+84,New Truffles,09-12-2017 11:09,morning,weekday
+84,New Pastry,09-12-2017 11:09,morning,weekday
+84,New Medialuna,09-12-2017 11:09,morning,weekday
+84,New Bagel,09-12-2017 11:09,morning,weekday
+84,New Focaccia,09-12-2017 11:09,morning,weekday
+84,New Smoothies,09-12-2017 11:09,morning,weekday
+84,New Drinking Chocolate Spoons,09-12-2017 11:09,morning,weekday
+85,New Irish Coffee,25-02-2018 23:20,night,weekday
+85,New Bare Popcorn,25-02-2018 23:20,night,weekday
+85,New Affogato,25-02-2018 23:20,night,weekday
+85,New Soup,25-02-2018 23:20,night,weekday
+85,New Caramel Bites,25-02-2018 23:20,night,weekday
+85,New Tea,25-02-2018 23:20,night,weekday
+85,New Hack The Stack,25-02-2018 23:20,night,weekday
+85,New Jammie Dodgers,25-02-2018 23:20,night,weekday
+85,New Hearty & Seasonal,25-02-2018 23:20,night,weekday
+85,New Macchiato,25-02-2018 23:20,night,weekday
+85,New Lungo,25-02-2018 23:20,night,weekday
+85,New Polenta,25-02-2018 23:20,night,weekday
+85,New Flatwhite,25-02-2018 23:20,night,weekday
+85,New Cookies,25-02-2018 23:20,night,weekday
+86,New Croissant,18-02-2017 06:39,morning,weekday
+86,New Fairy Doors,18-02-2017 06:39,morning,weekday
+86,New Truffles,18-02-2017 06:39,morning,weekday
+86,New Kids Biscuit,18-02-2017 06:39,morning,weekday
+86,New Extra Salami Or Feta,18-02-2017 06:39,morning,weekday
+86,New Ristretto,18-02-2017 06:39,morning,weekday
+86,New Tiffin,18-02-2017 06:39,morning,weekday
+86,New Affogato,18-02-2017 06:39,morning,weekday
+86,New Gift Voucher,18-02-2017 06:39,morning,weekday
+86,New Tshirt,18-02-2017 06:39,morning,weekday
+86,New Frittata,18-02-2017 06:39,morning,weekday
+86,New Coffee,18-02-2017 06:39,morning,weekday
+86,New Dulce De Leche,18-02-2017 06:39,morning,weekday
+87,New Olum & Polenta,12-09-2017 11:51,morning,weekday
+87,New Adjustment,12-09-2017 11:51,morning,weekday
+87,New Raw Bars,12-09-2017 11:51,morning,weekday
+87,New Danish,12-09-2017 11:51,morning,weekday
+87,New Hot Chocolate,12-09-2017 11:51,morning,weekday
+87,New Bakewell,12-09-2017 11:51,morning,weekday
+87,New The Bart,12-09-2017 11:51,morning,weekday
+87,New Honey,12-09-2017 11:51,morning,weekday
+87,New Farm House,12-09-2017 11:51,morning,weekday
+87,New Frittata,12-09-2017 11:51,morning,weekday
+88,New Victorian Sponge,13-03-2018 18:14,evening,weekday
+88,New Pintxos,13-03-2018 18:14,evening,weekday
+88,New Cherry Me Dried Fruit,13-03-2018 18:14,evening,weekday
+88,New The Bart,13-03-2018 18:14,evening,weekday
+88,New My-5 Fruit Shoot,13-03-2018 18:14,evening,weekday
+89,New Americano,10-05-2018 11:36,morning,weekday
+89,New Extra Salami Or Feta,10-05-2018 11:36,morning,weekday
+89,New Cookies,10-05-2018 11:36,morning,weekday
+89,New Bread Pudding,10-05-2018 11:36,morning,weekday
+89,New Mighty Protein,10-05-2018 11:36,morning,weekday
+90,New Tiffin,10-06-2017 12:10,afternoon,weekend
+90,New Pintxos,10-06-2017 12:10,afternoon,weekend
+90,New Espresso,10-06-2017 12:10,afternoon,weekend
+90,New Extra Salami Or Feta,10-06-2017 12:10,afternoon,weekend
+90,New Lungo,10-06-2017 12:10,afternoon,weekend
+90,New Tacos/fajita,10-06-2017 12:10,afternoon,weekend
+90,New Baguette,10-06-2017 12:10,afternoon,weekend
+90,New Brioche And Salami,10-06-2017 12:10,afternoon,weekend
+90,New Raspberry Shortbread Sandwich,10-06-2017 12:10,afternoon,weekend
+90,New Kids Biscuit,10-06-2017 12:10,afternoon,weekend
+90,New Chicken Stew,10-06-2017 12:10,afternoon,weekend
+90,New Crisps,10-06-2017 12:10,afternoon,weekend
+90,New Eclair,10-06-2017 12:10,afternoon,weekend
+91,New Argentina Night,19-04-2018 18:55,evening,weekend
+91,New Juice,19-04-2018 18:55,evening,weekend
+91,New Latte,19-04-2018 18:55,evening,weekend
+91,New Muffin,19-04-2018 18:55,evening,weekend
+91,New Cake,19-04-2018 18:55,evening,weekend
+91,New Raw Bars,19-04-2018 18:55,evening,weekend
+92,New Afternoon With The Baker,23-11-2017 19:20,evening,weekend
+92,New Granola,23-11-2017 19:20,evening,weekend
+92,New Mineral Water,23-11-2017 19:20,evening,weekend
+92,New Cortado,23-11-2017 19:20,evening,weekend
+92,New Affogato,23-11-2017 19:20,evening,weekend
+92,New Oatmeal,23-11-2017 19:20,evening,weekend
+92,New Basket,23-11-2017 19:20,evening,weekend
+92,New Cookies,23-11-2017 19:20,evening,weekend
+92,New Muffin,23-11-2017 19:20,evening,weekend
+92,New Vegan Mincepie,23-11-2017 19:20,evening,weekend
+92,New Crepes,23-11-2017 19:20,evening,weekend
+93,New Brownie,23-04-2017 18:38,evening,weekday
+93,New Macchiato,23-04-2017 18:38,evening,weekday
+93,New Cherry Me Dried Fruit,23-04-2017 18:38,evening,weekday
+93,New Hack The Stack,23-04-2017 18:38,evening,weekday
+93,New Postcard,23-04-2017 18:38,evening,weekday
+93,New Jam,23-04-2017 18:38,evening,weekday
+93,New Mighty Protein,23-04-2017 18:38,evening,weekday
+93,New Drinking Chocolate Spoons,23-04-2017 18:38,evening,weekday
+93,New Bread,23-04-2017 18:38,evening,weekday
+93,New Olum & Polenta,23-04-2017 18:38,evening,weekday
+93,New Granola,23-04-2017 18:38,evening,weekday
+93,New Valentine's Card,23-04-2017 18:38,evening,weekday
+93,New Ristretto,23-04-2017 18:38,evening,weekday
+93,New Croissant,23-04-2017 18:38,evening,weekday
+93,New Polenta,23-04-2017 18:38,evening,weekday
+94,New Hot Chocolate,26-08-2017 13:34,afternoon,weekday
+94,New Toast,26-08-2017 13:34,afternoon,weekday
+94,New The Bart,26-08-2017 13:34,afternoon,weekday
+94,New Muffin,26-08-2017 13:34,afternoon,weekday
+94,New Alfajores,26-08-2017 13:34,afternoon,weekday
+94,New Tartine,26-08-2017 13:34,afternoon,weekday
+94,New Fudge,26-08-2017 13:34,afternoon,weekday
+95,New Cappuccino,05-03-2018 13:56,afternoon,weekday
+95,New Christmas Common,05-03-2018 13:56,afternoon,weekday
+95,New Gift Voucher,05-03-2018 13:56,afternoon,weekday
+95,New Jammie Dodgers,05-03-2018 13:56,afternoon,weekday
+95,New Hot Chocolate,05-03-2018 13:56,afternoon,weekday
+95,New Ella's Kitchen Pouches,05-03-2018 13:56,afternoon,weekday
+95,New Panatone,05-03-2018 13:56,afternoon,weekday
+95,New Toast,05-03-2018 13:56,afternoon,weekday
+95,New Muesli,05-03-2018 13:56,afternoon,weekday
+95,New Valentine's Card,05-03-2018 13:56,afternoon,weekday
+95,New Latte,05-03-2018 13:56,afternoon,weekday
+95,New Americano,05-03-2018 13:56,afternoon,weekday
+96,New Tiffin,01-04-2017 19:26,evening,weekday
+96,New Drinking Chocolate Spoons,01-04-2017 19:26,evening,weekday
+96,New Granola,01-04-2017 19:26,evening,weekday
+96,New Eclair,01-04-2017 19:26,evening,weekday
+96,New Oatmeal,01-04-2017 19:26,evening,weekday
+96,New Pastry,01-04-2017 19:26,evening,weekday
+96,New Salad,01-04-2017 19:26,evening,weekday
+96,New Brioche And Salami,01-04-2017 19:26,evening,weekday
+96,New Jam,01-04-2017 19:26,evening,weekday
+96,New Vegan Mincepie,01-04-2017 19:26,evening,weekday
+96,New Vegan Feast,01-04-2017 19:26,evening,weekday
+97,New Lungo,06-02-2018 15:44,afternoon,weekend
+97,New Scone,06-02-2018 15:44,afternoon,weekend
+97,New Frittata,06-02-2018 15:44,afternoon,weekend
+97,New Mortimer,06-02-2018 15:44,afternoon,weekend
+97,New Truffles,06-02-2018 15:44,afternoon,weekend
+97,New Art Tray,06-02-2018 15:44,afternoon,weekend
+97,New Chicken Sand,06-02-2018 15:44,afternoon,weekend
+97,New Eggs,06-02-2018 15:44,afternoon,weekend
+97,New The Bart,06-02-2018 15:44,afternoon,weekend
+97,New Tea,06-02-2018 15:44,afternoon,weekend
+97,New Pastry,06-02-2018 15:44,afternoon,weekend
+98,New Panatone,19-10-2017 12:33,afternoon,weekend
+99,New Fudge,19-04-2017 22:33,night,weekend
+99,New Chocolates,19-04-2017 22:33,night,weekend
+99,New Frittata,19-04-2017 22:33,night,weekend
+99,New Jammie Dodgers,19-04-2017 22:33,night,weekend
+100,New Pastry,15-02-2017 23:40,night,weekend
+100,New Cake,15-02-2017 23:40,night,weekend
+100,New Affogato,15-02-2017 23:40,night,weekend
