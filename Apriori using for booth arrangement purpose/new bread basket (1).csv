@@ -1,0 +1,413 @@
+Transaction,Item,date_time,period_day,weekday_weekend
+1,New Bread,30-10-2016 09:58,morning,weekend
+2,New Scandinavian,30-10-2016 10:05,morning,weekend
+2,New Scandinavian,30-10-2016 10:05,morning,weekend
+3,New Hot chocolate,30-10-2016 10:07,morning,weekend
+3,New Jam,30-10-2016 10:07,morning,weekend
+3,New Cookies,30-10-2016 10:07,morning,weekend
+4,New Muffin,30-10-2016 10:08,morning,weekend
+5,New Coffee,30-10-2016 10:13,morning,weekend
+5,New Pastry,30-10-2016 10:13,morning,weekend
+5,New Bread,30-10-2016 10:13,morning,weekend
+6,New Medialuna,30-10-2016 10:16,morning,weekend
+6,New Pastry,30-10-2016 10:16,morning,weekend
+6,New Muffin,30-10-2016 10:16,morning,weekend
+7,New Medialuna,30-10-2016 10:19,morning,weekend
+7,New Pastry,30-10-2016 10:19,morning,weekend
+7,New Coffee,30-10-2016 10:19,morning,weekend
+7,New Tea,30-10-2016 10:19,morning,weekend
+8,New Pastry,30-10-2016 10:20,morning,weekend
+8,New Bread,30-10-2016 10:20,morning,weekend
+9,New Bread,30-10-2016 10:21,morning,weekend
+9,New Muffin,30-10-2016 10:21,morning,weekend
+10,New Scandinavian,30-10-2016 10:25,morning,weekend
+10,New Medialuna,30-10-2016 10:25,morning,weekend
+11,New Bread,30-10-2016 10:27,morning,weekend
+11,New Medialuna,30-10-2016 10:27,morning,weekend
+11,New Bread,30-10-2016 10:27,morning,weekend
+12,New Jam,30-10-2016 10:30,morning,weekend
+12,New Coffee,30-10-2016 10:30,morning,weekend
+12,New Tartine,30-10-2016 10:30,morning,weekend
+12,New Pastry,30-10-2016 10:30,morning,weekend
+12,New Tea,30-10-2016 10:30,morning,weekend
+13,New Basket,30-10-2016 10:31,morning,weekend
+13,New Bread,30-10-2016 10:31,morning,weekend
+13,New Coffee,30-10-2016 10:31,morning,weekend
+14,New Bread,30-10-2016 10:32,morning,weekend
+14,New Medialuna,30-10-2016 10:32,morning,weekend
+14,New Pastry,30-10-2016 10:32,morning,weekend
+15,New Mineral water,30-10-2016 10:34,morning,weekend
+15,New Scandinavian,30-10-2016 10:34,morning,weekend
+16,New Bread,30-10-2016 10:37,morning,weekend
+16,New Medialuna,30-10-2016 10:37,morning,weekend
+16,New Coffee,30-10-2016 10:37,morning,weekend
+17,New Hot chocolate,30-10-2016 10:38,morning,weekend
+18,New Farm House,30-10-2016 10:41,morning,weekend
+19,New Farm House,30-10-2016 10:43,morning,weekend
+19,New Bread,30-10-2016 10:43,morning,weekend
+20,New Bread,30-10-2016 10:45,morning,weekend
+20,New Medialuna,30-10-2016 10:45,morning,weekend
+21,New Coffee,30-10-2016 10:49,morning,weekend
+21,New Coffee,30-10-2016 10:49,morning,weekend
+21,New Medialuna,30-10-2016 10:49,morning,weekend
+21,New Bread,30-10-2016 10:49,morning,weekend
+22,New Jam,30-10-2016 10:52,morning,weekend
+23,New Scandinavian,30-10-2016 10:53,morning,weekend
+23,New Muffin,30-10-2016 10:53,morning,weekend
+24,New Bread,30-10-2016 10:54,morning,weekend
+25,New Scandinavian,30-10-2016 10:55,morning,weekend
+26,New Fudge,30-10-2016 10:56,morning,weekend
+27,New Scandinavian,30-10-2016 11:02,morning,weekend
+28,New Coffee,30-10-2016 11:03,morning,weekend
+28,New Bread,30-10-2016 11:03,morning,weekend
+29,New Bread,30-10-2016 11:05,morning,weekend
+29,New Jam,30-10-2016 11:05,morning,weekend
+30,New Bread,30-10-2016 11:07,morning,weekend
+31,New Basket,30-10-2016 11:12,morning,weekend
+32,New Scandinavian,30-10-2016 11:16,morning,weekend
+32,New Muffin,30-10-2016 11:16,morning,weekend
+33,New Coffee,30-10-2016 11:22,morning,weekend
+34,New Coffee,30-10-2016 11:25,morning,weekend
+34,New Muffin,30-10-2016 11:25,morning,weekend
+35,New Muffin,30-10-2016 11:27,morning,weekend
+35,New Scandinavian,30-10-2016 11:27,morning,weekend
+36,New Tea,30-10-2016 11:33,morning,weekend
+36,New Bread,30-10-2016 11:33,morning,weekend
+37,New Coffee,30-10-2016 11:37,morning,weekend
+37,New Bread,30-10-2016 11:37,morning,weekend
+38,New Bread,30-10-2016 11:42,morning,weekend
+38,New Tea,30-10-2016 11:42,morning,weekend
+39,New Scandinavian,30-10-2016 11:44,morning,weekend
+40,New Juice,30-10-2016 11:55,morning,weekend
+40,New Tartine,30-10-2016 11:55,morning,weekend
+40,New Coffee,30-10-2016 11:55,morning,weekend
+40,New Muffin,30-10-2016 11:55,morning,weekend
+41,New Scandinavian,30-10-2016 11:57,morning,weekend
+42,New Bread,30-10-2016 11:57,morning,weekend
+42,New Tea,30-10-2016 11:57,morning,weekend
+43,New Scandinavian,30-10-2016 12:00,afternoon,weekend
+43,New Fudge,30-10-2016 12:00,afternoon,weekend
+44,New Coffee,30-10-2016 12:05,afternoon,weekend
+44,New Medialuna,30-10-2016 12:05,afternoon,weekend
+45,New Coffee,30-10-2016 12:08,afternoon,weekend
+45,New Hot chocolate,30-10-2016 12:08,afternoon,weekend
+45,New Medialuna,30-10-2016 12:08,afternoon,weekend
+46,New Coffee,30-10-2016 12:09,afternoon,weekend
+47,New Ella's Kitchen Pouches,30-10-2016 12:15,afternoon,weekend
+47,New Juice,30-10-2016 12:15,afternoon,weekend
+47,New Bread,30-10-2016 12:15,afternoon,weekend
+47,New Muffin,30-10-2016 12:15,afternoon,weekend
+47,New Jam,30-10-2016 12:15,afternoon,weekend
+48,New Coffee,30-10-2016 12:17,afternoon,weekend
+49,New Coffee,30-10-2016 12:23,afternoon,weekend
+49,New Coffee,30-10-2016 12:23,afternoon,weekend
+49,New Medialuna,30-10-2016 12:23,afternoon,weekend
+50,New Bread,30-10-2016 12:25,afternoon,weekend
+50,New Victorian Sponge,30-10-2016 12:25,afternoon,weekend
+51,New Bread,30-10-2016 12:26,afternoon,weekend
+52,New Scandinavian,30-10-2016 12:28,afternoon,weekend
+54,New Bread,30-10-2016 12:33,afternoon,weekend
+55,New Frittata,30-10-2016 12:38,afternoon,weekend
+55,New Coffee,30-10-2016 12:38,afternoon,weekend
+55,New Tea,30-10-2016 12:38,afternoon,weekend
+55,New Hearty & Seasonal,30-10-2016 12:38,afternoon,weekend
+56,New Coffee,30-10-2016 12:39,afternoon,weekend
+56,New Frittata,30-10-2016 12:39,afternoon,weekend
+57,New Scandinavian,30-10-2016 12:45,afternoon,weekend
+58,New Victorian Sponge,30-10-2016 12:59,afternoon,weekend
+58,New Hot chocolate,30-10-2016 12:59,afternoon,weekend
+58,New Tea,30-10-2016 12:59,afternoon,weekend
+58,New Soup,30-10-2016 12:59,afternoon,weekend
+59,New Tea,30-10-2016 13:02,afternoon,weekend
+60,New Cookies,30-10-2016 13:14,afternoon,weekend
+60,New Coffee,30-10-2016 13:14,afternoon,weekend
+60,New Juice,30-10-2016 13:14,afternoon,weekend
+60,New Coffee,30-10-2016 13:14,afternoon,weekend
+61,New Coffee,30-10-2016 13:15,afternoon,weekend
+62,New Pick and Mix Bowls,30-10-2016 13:24,afternoon,weekend
+62,New Hearty & Seasonal,30-10-2016 13:24,afternoon,weekend
+62,New Hearty & Seasonal,30-10-2016 13:24,afternoon,weekend
+62,New Coffee,30-10-2016 13:24,afternoon,weekend
+62,New Smoothies,30-10-2016 13:24,afternoon,weekend
+62,New Coffee,30-10-2016 13:24,afternoon,weekend
+63,New Coffee,30-10-2016 13:33,afternoon,weekend
+64,New Cake,30-10-2016 13:34,afternoon,weekend
+65,New Tartine,30-10-2016 13:37,afternoon,weekend
+65,New Mighty Protein,30-10-2016 13:37,afternoon,weekend
+65,New Tea,30-10-2016 13:37,afternoon,weekend
+65,New Coffee,30-10-2016 13:37,afternoon,weekend
+66,New Hearty & Seasonal,30-10-2016 13:40,afternoon,weekend
+66,New Frittata,30-10-2016 13:40,afternoon,weekend
+66,New Mineral water,30-10-2016 13:40,afternoon,weekend
+67,New Hearty & Seasonal,30-10-2016 13:46,afternoon,weekend
+67,New Mineral water,30-10-2016 13:46,afternoon,weekend
+67,New Muffin,30-10-2016 13:46,afternoon,weekend
+68,New Frittata,30-10-2016 13:49,afternoon,weekend
+68,New Coffee,30-10-2016 13:49,afternoon,weekend
+68,New Tea,30-10-2016 13:49,afternoon,weekend
+68,New Scandinavian,30-10-2016 13:49,afternoon,weekend
+68,New Chicken sand,30-10-2016 13:49,afternoon,weekend
+69,New Bread,30-10-2016 13:51,afternoon,weekend
+69,New Tea,30-10-2016 13:51,afternoon,weekend
+69,New Victorian Sponge,30-10-2016 13:51,afternoon,weekend
+70,New Fudge,30-10-2016 13:54,afternoon,weekend
+71,New Muffin,30-10-2016 13:56,afternoon,weekend
+72,New Coffee,30-10-2016 14:21,afternoon,weekend
+72,New Bread,30-10-2016 14:21,afternoon,weekend
+73,New Bread,30-10-2016 14:22,afternoon,weekend
+74,New Coffee,30-10-2016 14:24,afternoon,weekend
+74,New Bread,30-10-2016 14:24,afternoon,weekend
+75,New Jam,30-10-2016 14:32,afternoon,weekend
+75,New Frittata,30-10-2016 14:32,afternoon,weekend
+76,New Coffee,30-10-2016 14:32,afternoon,weekend
+77,New Scandinavian,30-10-2016 14:35,afternoon,weekend
+78,New Fudge,30-10-2016 14:42,afternoon,weekend
+79,New Fudge,30-10-2016 14:45,afternoon,weekend
+79,New Tea,30-10-2016 14:45,afternoon,weekend
+79,New Coffee,30-10-2016 14:45,afternoon,weekend
+79,New Muffin,30-10-2016 14:45,afternoon,weekend
+80,New Frittata,30-10-2016 14:48,afternoon,weekend
+80,New Bread,30-10-2016 14:48,afternoon,weekend
+80,New Coffee,30-10-2016 14:48,afternoon,weekend
+81,New Coffee,31-10-2016 08:28,morning,weekday
+81,New Cake,31-10-2016 08:28,morning,weekday
+82,New Tartine,31-10-2016 08:47,morning,weekday
+82,New Bread,31-10-2016 08:47,morning,weekday
+83,New Coffee,31-10-2016 08:57,morning,weekday
+83,New Bread,31-10-2016 08:57,morning,weekday
+84,New Bread,31-10-2016 09:04,morning,weekday
+85,New Coffee,31-10-2016 09:10,morning,weekday
+85,New Coffee,31-10-2016 09:10,morning,weekday
+85,New Pastry,31-10-2016 09:10,morning,weekday
+85,New Medialuna,31-10-2016 09:10,morning,weekday
+86,New Juice,31-10-2016 09:11,morning,weekday
+87,New Bread,31-10-2016 09:12,morning,weekday
+88,New Coffee,31-10-2016 09:16,morning,weekday
+88,New Coffee,31-10-2016 09:16,morning,weekday
+88,New Jam,31-10-2016 09:16,morning,weekday
+89,New Bread,31-10-2016 09:19,morning,weekday
+90,New Bread,31-10-2016 09:20,morning,weekday
+90,New Coffee,31-10-2016 09:20,morning,weekday
+91,New Tea,31-10-2016 09:22,morning,weekday
+92,New Coffee,31-10-2016 09:27,morning,weekday
+93,New Bread,31-10-2016 09:29,morning,weekday
+93,New Coke,31-10-2016 09:29,morning,weekday
+94,New Coffee,31-10-2016 09:39,morning,weekday
+94,New Coffee,31-10-2016 09:39,morning,weekday
+95,New Tea,31-10-2016 09:43,morning,weekday
+95,New Pastry,31-10-2016 09:43,morning,weekday
+95,New Farm House,31-10-2016 09:43,morning,weekday
+96,New Pastry,31-10-2016 09:46,morning,weekday
+96,New Pastry,31-10-2016 09:46,morning,weekday
+96,New Coffee,31-10-2016 09:46,morning,weekday
+96,New Juice,31-10-2016 09:46,morning,weekday
+97,New Coffee,31-10-2016 09:51,morning,weekday
+97,New Pastry,31-10-2016 09:51,morning,weekday
+97,New Juice,31-10-2016 09:51,morning,weekday
+98,New Farm House,31-10-2016 09:52,morning,weekday
+99,New Pastry,31-10-2016 09:56,morning,weekday
+99,New Pastry,31-10-2016 09:56,morning,weekday
+99,New Coffee,31-10-2016 09:56,morning,weekday
+99,New Bread,31-10-2016 09:56,morning,weekday
+100,New Bread,31-10-2016 09:58,morning,weekday
+101,New Coffee,31-10-2016 10:04,morning,weekday
+101,New Pastry,31-10-2016 10:04,morning,weekday
+102,New Farm House,31-10-2016 10:04,morning,weekday
+103,New Bread,31-10-2016 10:07,morning,weekday
+104,New Coffee,31-10-2016 10:12,morning,weekday
+104,New Coffee,31-10-2016 10:12,morning,weekday
+104,New Medialuna,31-10-2016 10:12,morning,weekday
+104,New Muffin,31-10-2016 10:12,morning,weekday
+104,New Coffee,31-10-2016 10:12,morning,weekday
+105,New Coffee,31-10-2016 10:21,morning,weekday
+105,New Tea,31-10-2016 10:21,morning,weekday
+105,New Cake,31-10-2016 10:21,morning,weekday
+106,New Coffee,31-10-2016 10:24,morning,weekday
+106,New Coffee,31-10-2016 10:24,morning,weekday
+106,New Pastry,31-10-2016 10:24,morning,weekday
+106,New Pastry,31-10-2016 10:24,morning,weekday
+107,New Coffee,31-10-2016 10:27,morning,weekday
+107,New Tea,31-10-2016 10:27,morning,weekday
+108,New Farm House,31-10-2016 10:31,morning,weekday
+108,New Muffin,31-10-2016 10:31,morning,weekday
+109,New Bread,31-10-2016 10:35,morning,weekday
+109,New Muffin,31-10-2016 10:35,morning,weekday
+109,New Pastry,31-10-2016 10:35,morning,weekday
+110,New Pastry,31-10-2016 10:36,morning,weekday
+111,New Coffee,31-10-2016 10:38,morning,weekday
+112,New Coffee,31-10-2016 10:59,morning,weekday
+113,New Coffee,31-10-2016 11:02,morning,weekday
+113,New Cake,31-10-2016 11:02,morning,weekday
+114,New Farm House,31-10-2016 11:05,morning,weekday
+115,New Bread,31-10-2016 11:08,morning,weekday
+116,New Coffee,31-10-2016 11:11,morning,weekday
+117,New Cookies,31-10-2016 11:13,morning,weekday
+117,New Cake,31-10-2016 11:13,morning,weekday
+117,New Coffee,31-10-2016 11:13,morning,weekday
+117,New My-5 Fruit Shoot,31-10-2016 11:13,morning,weekday
+118,New Cookies,31-10-2016 11:18,morning,weekday
+118,New Cookies,31-10-2016 11:18,morning,weekday
+118,New Tea,31-10-2016 11:18,morning,weekday
+118,New Pastry,31-10-2016 11:18,morning,weekday
+119,New Coffee,31-10-2016 11:25,morning,weekday
+119,New Coffee,31-10-2016 11:25,morning,weekday
+119,New Muffin,31-10-2016 11:25,morning,weekday
+120,New Farm House,31-10-2016 11:29,morning,weekday
+121,New Coffee,31-10-2016 11:30,morning,weekday
+121,New Bread,31-10-2016 11:30,morning,weekday
+122,New Cookies,31-10-2016 11:37,morning,weekday
+123,New Jam,31-10-2016 11:42,morning,weekday
+123,New Coffee,31-10-2016 11:42,morning,weekday
+123,New Coffee,31-10-2016 11:42,morning,weekday
+123,New Juice,31-10-2016 11:42,morning,weekday
+124,New Coffee,31-10-2016 11:43,morning,weekday
+124,New Soup,31-10-2016 11:43,morning,weekday
+125,New Tea,31-10-2016 11:47,morning,weekday
+126,New Coffee,31-10-2016 11:52,morning,weekday
+126,New Jam,31-10-2016 11:52,morning,weekday
+127,New Farm House,31-10-2016 11:53,morning,weekday
+128,New Tartine,31-10-2016 11:55,morning,weekday
+128,New Coffee,31-10-2016 11:55,morning,weekday
+128,New Tea,31-10-2016 11:55,morning,weekday
+129,New Coffee,31-10-2016 11:59,morning,weekday
+129,New Coffee,31-10-2016 11:59,morning,weekday
+129,New Cake,31-10-2016 11:59,morning,weekday
+130,New Coffee,31-10-2016 12:03,afternoon,weekday
+130,New Coffee,31-10-2016 12:03,afternoon,weekday
+130,New Muffin,31-10-2016 12:03,afternoon,weekday
+131,New Bread,31-10-2016 12:08,afternoon,weekday
+131,New Coffee,31-10-2016 12:08,afternoon,weekday
+132,New Tea,31-10-2016 12:14,afternoon,weekday
+132,New Juice,31-10-2016 12:14,afternoon,weekday
+132,New Pick and Mix Bowls,31-10-2016 12:14,afternoon,weekday
+132,New Cookies,31-10-2016 12:14,afternoon,weekday
+133,New Hearty & Seasonal,31-10-2016 12:16,afternoon,weekday
+133,New Soup,31-10-2016 12:16,afternoon,weekday
+134,New Hearty & Seasonal,31-10-2016 12:19,afternoon,weekday
+134,New Tea,31-10-2016 12:19,afternoon,weekday
+134,New Farm House,31-10-2016 12:19,afternoon,weekday
+135,New Bread,31-10-2016 12:20,afternoon,weekday
+136,New Tea,31-10-2016 12:27,afternoon,weekday
+136,New Soup,31-10-2016 12:27,afternoon,weekday
+137,New Farm House,31-10-2016 12:37,afternoon,weekday
+138,New Soup,31-10-2016 12:43,afternoon,weekday
+138,New Hearty & Seasonal,31-10-2016 12:43,afternoon,weekday
+138,New Coffee,31-10-2016 12:43,afternoon,weekday
+139,New Bread,31-10-2016 12:50,afternoon,weekday
+139,New Muffin,31-10-2016 12:50,afternoon,weekday
+139,New Hearty & Seasonal,31-10-2016 12:50,afternoon,weekday
+140,New Coffee,31-10-2016 12:53,afternoon,weekday
+140,New Coffee,31-10-2016 12:53,afternoon,weekday
+140,New Cookies,31-10-2016 12:53,afternoon,weekday
+141,New Bread,31-10-2016 12:54,afternoon,weekday
+142,New Tea,31-10-2016 12:56,afternoon,weekday
+142,New Muffin,31-10-2016 12:56,afternoon,weekday
+143,New Tea,31-10-2016 12:59,afternoon,weekday
+144,New Soup,31-10-2016 13:02,afternoon,weekday
+144,New Hearty & Seasonal,31-10-2016 13:02,afternoon,weekday
+145,New Coffee,31-10-2016 13:05,afternoon,weekday
+145,New Tea,31-10-2016 13:05,afternoon,weekday
+145,New Focaccia,31-10-2016 13:05,afternoon,weekday
+146,New Sandwich,31-10-2016 13:08,afternoon,weekday
+147,New Tartine,31-10-2016 13:09,afternoon,weekday
+147,New Coffee,31-10-2016 13:09,afternoon,weekday
+148,New Fudge,31-10-2016 13:21,afternoon,weekday
+148,New Coffee,31-10-2016 13:21,afternoon,weekday
+148,New Coffee,31-10-2016 13:21,afternoon,weekday
+149,New Coffee,31-10-2016 13:26,afternoon,weekday
+150,New Bread,31-10-2016 13:31,afternoon,weekday
+151,New Coke,31-10-2016 13:50,afternoon,weekday
+151,New Soup,31-10-2016 13:50,afternoon,weekday
+152,New Muffin,31-10-2016 13:51,afternoon,weekday
+153,New Tea,31-10-2016 13:55,afternoon,weekday
+153,New Coffee,31-10-2016 13:55,afternoon,weekday
+153,New Cookies,31-10-2016 13:55,afternoon,weekday
+153,New Muffin,31-10-2016 13:55,afternoon,weekday
+154,New Mighty Protein,31-10-2016 14:00,afternoon,weekday
+154,New Hearty & Seasonal,31-10-2016 14:00,afternoon,weekday
+154,New Coffee,31-10-2016 14:00,afternoon,weekday
+154,New Coke,31-10-2016 14:00,afternoon,weekday
+155,New Tea,31-10-2016 14:01,afternoon,weekday
+155,New Muffin,31-10-2016 14:01,afternoon,weekday
+155,New Sandwich,31-10-2016 14:01,afternoon,weekday
+156,New Coffee,31-10-2016 14:04,afternoon,weekday
+156,New Muffin,31-10-2016 14:04,afternoon,weekday
+157,New Coffee,31-10-2016 14:05,afternoon,weekday
+157,New Bread,31-10-2016 14:05,afternoon,weekday
+158,New Coffee,31-10-2016 14:20,afternoon,weekday
+158,New Muffin,31-10-2016 14:20,afternoon,weekday
+159,New Bread,31-10-2016 14:22,afternoon,weekday
+159,New Hot chocolate,31-10-2016 14:22,afternoon,weekday
+159,New Cookies,31-10-2016 14:22,afternoon,weekday
+160,New Mineral water,31-10-2016 14:35,afternoon,weekday
+160,New Muffin,31-10-2016 14:35,afternoon,weekday
+161,New Tea,31-10-2016 14:42,afternoon,weekday
+162,New Muffin,31-10-2016 14:44,afternoon,weekday
+163,New Coffee,31-10-2016 14:47,afternoon,weekday
+163,New Juice,31-10-2016 14:47,afternoon,weekday
+164,New Coffee,31-10-2016 14:47,afternoon,weekday
+164,New Muffin,31-10-2016 14:47,afternoon,weekday
+165,New Tea,31-10-2016 14:48,afternoon,weekday
+166,New Coffee,31-10-2016 14:49,afternoon,weekday
+166,New Muffin,31-10-2016 14:49,afternoon,weekday
+167,New Sandwich,31-10-2016 14:50,afternoon,weekday
+167,New Hearty & Seasonal,31-10-2016 14:50,afternoon,weekday
+167,New Bread,31-10-2016 14:50,afternoon,weekday
+167,New Mineral water,31-10-2016 14:50,afternoon,weekday
+168,New Tea,31-10-2016 14:56,afternoon,weekday
+168,New Coffee,31-10-2016 14:56,afternoon,weekday
+169,New Mineral water,31-10-2016 15:05,afternoon,weekday
+170,New Coffee,31-10-2016 15:16,afternoon,weekday
+171,New Soup,31-10-2016 15:20,afternoon,weekday
+171,New Tea,31-10-2016 15:20,afternoon,weekday
+172,New Bread,31-10-2016 17:06,evening,weekday
+172,New Coffee,31-10-2016 17:06,evening,weekday
+173,New Bread,31-10-2016 17:08,evening,weekday
+173,New Muffin,31-10-2016 17:08,evening,weekday
+174,New Coffee,31-10-2016 17:40,evening,weekday
+175,New Bread,31-10-2016 17:49,evening,weekday
+176,New Cookies,31-10-2016 18:22,evening,weekday
+176,New Coffee,31-10-2016 18:22,evening,weekday
+178,New Coffee,01-11-2016 07:51,morning,weekday
+178,New Pastry,01-11-2016 07:51,morning,weekday
+179,New Coffee,01-11-2016 08:20,morning,weekday
+179,New Pastry,01-11-2016 08:20,morning,weekday
+180,New Jam,01-11-2016 08:22,morning,weekday
+180,New Tea,01-11-2016 08:22,morning,weekday
+181,New Tea,01-11-2016 08:45,morning,weekday
+181,New Tea,01-11-2016 08:45,morning,weekday
+182,New Pastry,01-11-2016 09:07,morning,weekday
+182,New Pastry,01-11-2016 09:07,morning,weekday
+182,New Ella's Kitchen Pouches,01-11-2016 09:07,morning,weekday
+183,New Pastry,01-11-2016 09:09,morning,weekday
+184,New Farm House,01-11-2016 09:26,morning,weekday
+184,New Tea,01-11-2016 09:26,morning,weekday
+185,New Tea,01-11-2016 09:29,morning,weekday
+185,New Victorian Sponge,01-11-2016 09:29,morning,weekday
+186,New Tea,01-11-2016 09:43,morning,weekday
+186,New Pastry,01-11-2016 09:43,morning,weekday
+187,New Bread,01-11-2016 10:02,morning,weekday
+188,New Coffee,01-11-2016 10:04,morning,weekday
+189,New Bread,01-11-2016 10:29,morning,weekday
+189,New Coffee,01-11-2016 10:29,morning,weekday
+190,New Coffee,01-11-2016 10:34,morning,weekday
+190,New Pastry,01-11-2016 10:34,morning,weekday
+190,New Pastry,01-11-2016 10:34,morning,weekday
+191,New Soup,01-11-2016 10:50,morning,weekday
+191,New Tea,01-11-2016 10:50,morning,weekday
+192,New Bread,01-11-2016 10:56,morning,weekday
+193,New Coffee,01-11-2016 11:00,morning,weekday
+194,New Bread,01-11-2016 11:04,morning,weekday
+194,New Bread,01-11-2016 11:04,morning,weekday
+195,New Bread,01-11-2016 11:06,morning,weekday
+195,New Scandinavian,01-11-2016 11:06,morning,weekday
+196,New Bread,01-11-2016 11:08,morning,weekday
+196,New Cake,01-11-2016 11:08,morning,weekday
+196,New Cookies,01-11-2016 11:08,morning,weekday
+197,New Coffee,01-11-2016 11:10,morning,weekday
+197,New Coffee,01-11-2016 11:10,morning,weekday
+197,New Tea,01-11-2016 11:10,morning,weekday
+198,New Coffee,01-11-2016 11:11,morning,weekday
+198,New Cookies,01-11-2016 11:11,morning,weekday
+199,New Coffee,01-11-2016 11:13,morning,weekday
+200,New Bread,01-11-2016 11:16,morning,weekday
