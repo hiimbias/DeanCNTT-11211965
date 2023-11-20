@@ -89,15 +89,15 @@ else:
 root = tk.Tk()
 root.title("Frequent Itemsets Finder")
 
-input_label = tk.Label(root, text="Enter a product or itemset (comma-separated):")
+input_label = tk.Label(root, text="Nhập tên một sản phẩm hoặc các sản phẩm (ngăn cách nhau bằng dấu phẩy):")
 input_label.pack(pady=10)
 
 input_entry = tk.Entry(root)
 input_entry.pack()
 
-find_button = tk.Button(root, text="Find Frequent Itemsets", command=show_frequent_itemsets)
+find_button = tk.Button(root, text="Tìm sản phẩm kết hợp", command=show_frequent_itemsets)
 find_button.pack(pady=10)
-load_data_button = tk.Button(root, text="Load New Dataset", command=lambda: load_new_data(system_data))
+load_data_button = tk.Button(root, text="Tải file data", command=lambda: load_new_data(system_data))
 load_data_button.pack(pady=10)
 
 result_label = tk.Label(root, text="", wraplength=300)
