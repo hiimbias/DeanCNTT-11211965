@@ -57,7 +57,7 @@ def show_frequent_itemsets():
     unique_itemsets = set()
 
     if frequent_itemsets:
-        result_label.config(text="Frequent itemsets frequently appearing with {}:".format(input_text))
+        result_label.config(text="Sản phẩm {} có thể kết hợp với những sản phẩm sau đây:".format(input_text))
         frequent_itemsets_text.config(state=tk.NORMAL)
         frequent_itemsets_text.delete(1.0, tk.END)
 
@@ -66,11 +66,11 @@ def show_frequent_itemsets():
             
             if current_itemset not in unique_itemsets:
                 unique_itemsets.add(current_itemset)
-                frequent_itemsets_text.insert(tk.END, f"Items: {', '.join(itemsets[0])}\n")
+                frequent_itemsets_text.insert(tk.END, f"Sản phẩm: {', '.join(itemsets[0])}\n")
 
         frequent_itemsets_text.config(state=tk.DISABLED)
     else:
-        result_label.config(text="No frequent itemsets found for {}".format(input_text))
+        result_label.config(text="Không tìm thấy sản phẩm kết hợp với {}".format(input_text))
 
 
 system_data = SystemData()
@@ -87,7 +87,7 @@ else:
 
 
 root = tk.Tk()
-root.title("Frequent Itemsets Finder")
+root.title("Hệ thống hỗ trợ tìm kiếm sản phẩm kết hợp")
 
 input_label = tk.Label(root, text="Nhập tên một sản phẩm hoặc các sản phẩm (ngăn cách nhau bằng dấu phẩy):")
 input_label.pack(pady=10)
